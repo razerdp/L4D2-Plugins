@@ -1,0 +1,506 @@
+﻿"Phrases"
+{
+	"WelcomeMessageHint"
+	{
+		"en"	"欢迎光临"
+	}
+
+	"WelcomeMessageChat"
+	{
+		"en"	"提示:如果技能菜单出不来或查询技能,请输入!perks"
+	}
+
+	"BonusDamageText"
+	{
+		"en"	"额外伤害"
+	}
+
+	"SpritSuccessMessage"
+	{
+		"en"	"你已自行起身"
+	}
+
+	"SpiritTimerFinishedMessage"
+	{
+		"en"	"你感觉体力回复，下次可以再自行起身了"
+	}
+
+	"UnbreakableHint"
+	{
+		"en"	"額外血量"
+	}
+
+	"GrenadierCarryHint"
+	{
+		"en"	"你正在携带"
+	}
+
+	"GrenadierCantTake2Grenades_A"
+	{
+		"en"	"你只捡起一個"
+	}
+
+	"GrenadierCantTake2Grenades_B"
+	{
+		"en"	"请记得丟出你的第二颗手雷后，再捡新的手雷"
+	}
+
+	"GrenadierCounter_A"
+	{
+		"en"	"你获得"
+	}
+
+	"GrenadierCounter_B"
+	{
+		"en"	"(炸弹专家奖励)"
+	}
+
+	"HelpingHandDonorHint"
+	{
+		"en"	"給予暂时的額外血量"
+	}
+
+	"HelpingHandReceiverHint"
+	{
+		"en"	"给你短暂的額外血量"
+	}
+
+	"BarfBaggedMobHint"
+	{
+		"en"	"将召唤更多的僵尸"
+	}
+
+	"JuggernautHint"
+	{
+		"en"	"你的生命增加了"
+	}
+
+	"MetabolicHint"
+	{
+		"en"	"你的速度增加了"
+	}
+
+	"StormCallerHint"
+	{
+		"en"	"尸潮已经召唤!"
+	}
+
+	"MapPerksPanel"
+	{
+		"en"	"本回合的技能"
+	}
+
+	"PyroDescriptionPanel"
+	{
+		"en"	"一次可以携带两个手雷"
+	}
+
+	"SpiritDescriptionPanel"
+	{
+		"en"	"技能冷却"
+	}
+
+	"DoubleTapDescriptionPanel"
+	{
+		"en"	"射击速度"
+	}
+
+	"SleighOfHandDescriptionPanel"
+	{
+		"en"	"换子弹速度"
+	}
+
+	"NotSet"
+	{
+		"en"	"双重喷射"
+	}
+
+	"ChemReliantDescriptionPanel"
+	{
+		"en"	"使用药丸获得额外血量"
+	}
+
+	"HelpingHandDescriptionPanel"
+	{
+		"en"	"帮助起身并給予額外血量"
+	}
+
+	"PackRatDescriptionPanel"
+	{
+		"en"	"增加弹药"
+	}
+
+	"HardToKillDescriptionPanel"
+	{
+		"en"	"倒地时获更多血量"
+	}
+
+	"BarfBaggedDescriptionPanel"
+	{
+		"en"	"呕吐物命中幸存者能召唤跟多的僵尸"
+	}
+
+	"DeadWreckeningDescriptionPanel"
+	{
+		"en"	"呕吐物加攻击"
+	}
+
+	"MotionSicknessDescriptionPanel"
+	{
+		"en"	"呕吐时可移动"
+	}
+
+	"BodySlamDescriptionPanel"
+	{
+		"en"	"扑倒人类加攻击"
+	}
+
+	"EfficientKillerDescriptionPanel"
+	{
+		"en"	"攻击力"
+	}
+
+	"GrasshopperDescriptionPanel"
+	{
+		"en"	"增加猛扑的距离"
+	}
+
+	"OldSchoolDescriptionPanel"
+	{
+		"en"	"伤害"
+	}
+
+	"StormCallerDescriptionPanel"
+	{
+		"en"	"出场时召唤一对小弟"
+	}
+
+	"InitialMenuPanel1"
+	{
+		"en"	"学习技能输入!perks"
+	}
+
+	"InitialMenuPanel2"
+	{
+		"en"	"选择1将自订技能"
+	}
+
+	"InitialMenuPanel3"
+	{
+		"en"	"自订技能"
+	}
+
+	"InitialMenuPanel4"
+	{
+		"en"	"选择2由系统随机"
+	}
+
+	"InitialMenuPanel5"
+	{
+		"en"	"分配技能"
+	}
+
+	"InitialMenuPanel6"
+	{
+		"en"	"随机技能"
+	}
+
+	"InitialMenuPanel7"
+	{
+		"en"	"如果需要"
+	}
+
+	"InitialMenuPanel8"
+	{
+		"en"	"按照上一场学习"
+	}
+
+	"InitialMenuPanel9"
+	{
+		"en"	"的技能选择3"
+	}
+
+	"InitialMenuPanel10"
+	{
+		"en"	"开始游戏"
+	}
+
+	"ThanksForChoosingMessage"
+	{
+		"en"	"你已经学习了技能！"
+	}
+
+	"ChooseSubMenuPanel"
+	{
+		"en"	"3个菜单各选1项技能"
+	}
+
+	"DoneNagPanel1"
+	{
+		"en"	"是否确定"
+	}
+
+	"DoneNagPanel2"
+	{
+		"en"	"选择完后按8确定"
+	}
+
+	"DoneNagPanel3"
+	{
+		"en"	"确认"
+	}
+
+	"ConfirmNagPanel1"
+	{
+		"en"	"在次确认技能"
+	}
+
+	"ConfirmNagPanel2"
+	{
+		"en"	"直到下一关无法更改技能"
+	}
+
+	"ConfirmNagPanel3"
+	{
+		"en"	"确认请按1"
+	}
+
+	"ConfirmNagPanel4"
+	{
+		"en"	"确认选择"
+	}
+
+	"ConfirmNagPanel5"
+	{
+		"en"	"如果选择取消"
+	}
+
+	"ConfirmNagPanel6"
+	{
+		"en"	"所选技能不会生效"
+	}
+
+	"ConfirmNagPanel7"
+	{
+		"en"	"取消请按2"
+	}
+
+	"ConfirmNagPanel8"
+	{
+		"en"	"重新选择"
+	}
+
+	"ConfirmedMessage"
+	{
+		"en"	"提示:你确定了你的技能，技能已生效！直到下一个回合开始之前都无法更改！按Y输入!perks 查询"
+	}
+
+	"YourPerksPanel"
+	{
+		"en"	"提示: 你已经选择技能"
+	}
+
+	"DoubleTapDescriptionText"
+	{
+		"en"	"射击速度更快"
+	}
+
+	"DisplayDisabledText"
+	{
+		"en"	"关闭"
+	}
+
+	"PyroDescriptionText1"
+	{
+		"en"	"拥有两个炸弹"
+	}
+
+	"PyroDescriptionText2"
+	{
+		"en"	"投掷第一颗后有冷却时间"
+	}
+
+	"SpiritDescriptionText"
+	{
+		"en"	"倒地自救并可恢复自身的血量"
+	}
+
+	"SpritDescriptionText2"
+	{
+		"en"	"站立起时, 需要"
+	}
+
+	"ChemReliantDescriptionText"
+	{
+		"en"	"使用药瓶增加血量"
+	}
+
+	"ChemReliantDescriptionText2"
+	{
+		"en"	"并且有额外的药瓶"
+	}
+
+	"HardToKillDescriptionText"
+	{
+		"en"	"倒地时可以得到"
+	}
+
+	"HardToKillDescriptionText2"
+	{
+		"en"	"血量"
+	}
+
+	"SqueezerDescriptionText"
+	{
+		"en"	"舌头捆绑幸存者加攻击力"
+	}
+
+	"MartialArtistDescriptionPanelCoop"
+	{
+		"en"	"移动速度"
+	}
+
+
+
+	"AdrenalGlandsHint"
+	{
+		"en"	"你的攻击速度加快"
+	}
+
+	"DoubleTroubleHint1"
+	{
+		"en"	"你呼唤了一个坦克,但是生命减少"
+	}
+
+	"DoubleTroubleHint2"
+	{
+		"en"	"你只有很少的生命,但是有两个坦克"
+	}
+
+	"MartialArtistDescriptionPanel"
+	{
+		"en"	"近战附带1次挥舞,并且破解右键无限推"
+	}
+
+	"MartialArtistDescriptionPanel1"
+	{
+		"en"	"右键无限推"
+	}
+
+	"MartialArtistDescriptionPanel2"
+	{
+		"en"	"并且附带1次挥舞"
+	}
+
+	"HelpingHandDescriptionPanel2"
+	{
+		"en"	"快速救人, 并且给队友和自己血量"
+	}
+
+	"AcidVomitDescriptionPanel"
+	{
+		"en"	"呕吐物具有失明效果, 冷却时间减少"
+	}
+
+	"TongueTwisterDescriptionPanel"
+	{
+		"en"	"舌头更快更长"
+	}
+
+	"TongueTwisterDescriptionPanel1"
+	{
+		"en"	"舌头攻击速度"
+	}
+
+	"TongueTwisterDescriptionPanel2"
+	{
+		"en"	"舌头距离"
+	}
+
+	"TongueTwisterDescriptionPanel3"
+	{
+		"en"	"舌头拉取速度"
+	}
+
+	"DragAndDropDescriptionPanel"
+	{
+		"en"	"舌头命中幸存者可右键中断，并增加拉人速度"
+	}
+
+	"SpeedDemonDescriptionPanel"
+	{
+		"en"	"速度和冷却时间"
+	}
+
+	"AdrenalGlandsDescriptionPanelShort"
+	{
+		"en"	"攻击速度"
+	}
+
+	"AdrenalGlandsDescriptionPanel1"
+	{
+		"en"	"挥拳速度"
+	}
+
+	"AdrenalGlandsDescriptionPanel2"
+	{
+		"en"	"投石速度"
+	}
+
+	"AdrenalGlandsDescriptionPanel3"
+	{
+		"en"	"整体能力提升"
+	}
+
+	"DoubleTroubleDescriptionPanel"
+	{
+		"en"	"将出现第二只TANK"
+	}
+
+	"DoubleTroubleDescriptionPanel2"
+	{
+		"en"	"有真身的血量"
+	}
+
+	"RideLikeTheWindDescriptionPanel"
+	{
+		"en"	"骑乘速度"
+	}
+
+	"FroggerDescriptionPanel"
+	{
+		"en"	"跳跃距离和攻击"
+	}
+
+	"GhostRiderDescriptionPanel"
+	{
+		"en"	"隐身"
+	}
+
+	"TwinSpitfireDescriptionPanel"
+	{
+		"en"	"双重喷射"
+	}
+
+	"ScatteringRamDescriptionPanel"
+	{
+		"en"	"增加血量和冲击力量"
+	}
+
+	"SpeedingBulletDescriptionPanel"
+	{
+		"en"	"冲击速度"
+	}
+	"LittleLeaguerDescriptionPanel"
+	{
+		"en"	"获得一把M60"
+	}
+	"MegaAdhesiveDescriptionPanel"
+	{
+		"en"	"降低生存者速度"
+	}
+	"SmokeItDescriptionPanel"
+	{
+		"en"	"拉人移动"
+	}
+}
